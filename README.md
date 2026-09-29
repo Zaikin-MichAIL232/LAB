@@ -1,3 +1,7 @@
-git --version
-git config --global user.name "Zaikin Michail"
-git config --global user.email "zaikinmiha53@gmail.com"
+Информатика и основы программирования 
+Заикин Михаил Евгеньевич
+БИН-26-1
+
+| Работа | Тема          | Статус    |
+| ------ | ------------- | --------- |
+| ЛР1    | Основы Python | Выполнено |
