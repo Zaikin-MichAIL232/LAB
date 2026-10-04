@@ -1,0 +1,6 @@
+FIO=str(input())
+parts=FIO.split()
+zaglfam=parts[0].title()
+name=parts[1].title()
+otchestvo=parts[2].title()
+print(zaglfam, f"{name[0]}.",f"{otchestvo[0]}.")
